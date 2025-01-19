@@ -1,5 +1,14 @@
 venv/
 .env
 *.txt
-# *.json
+!requirements.txt
+data/*
+*.json
 __pycache__
+settings.json
+*.log
+*.csv
+*.html
+copy_table.py
+transfer_reviews.py
+prootz.py
